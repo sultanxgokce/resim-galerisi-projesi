@@ -1,2 +1,6 @@
-# resim-galerisi-projesi
-HTML, CSS, JavaScript ve Bootstrap kullanılarak yapılmış resim galerisi projesi.
+
+# Resim Galerisi Projesi
+
+Bu proje, HTML, CSS, JavaScript ve Bootstrap kullanılarak oluşturulmuş bir resim galerisi uygulamasıdır.
+
+
